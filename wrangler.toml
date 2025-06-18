@@ -1,0 +1,5 @@
+name = "waves"
+account_id = "467c8a8850c806777c2a35e4274c3798"
+main = "index.mjs"
+compatibility_date = "2024-06-01"
+workers_dev = true
